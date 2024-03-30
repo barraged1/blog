@@ -61,7 +61,7 @@ While we are not aware of any private trackers explicitly prohibiting their user
 * Linking to public torrents is allowed through btdig.com.
 
 {{< box info >}}
-Public torrents usually include more than one PMV. You may link the appropriate torrent to all applicable PMVs (Scenes). You should make an effort to check if the torrent is actually relevant, but neither PMV Stash users nor administrators are required to seed any torrents. The purpose is to capture and organize information about what exists, not to facilitate file sharing.
+Public torrents sometimes include more than one PMV. You may link the appropriate torrent to all applicable PMVs (Scenes). You should make an effort to check if the torrent is actually relevant, but neither PMV Stash users nor administrators are required to seed any torrents. The purpose is to capture and organize information about what exists, not to facilitate file sharing.
 {{< /box >}}
 
 * Do *not* add direct links to file sharing sites to Scenes.
