@@ -1,6 +1,6 @@
 baseURL: https://blog.pmvstash.org
 languageCode: en-us
-title: My New Hugo Site
+title: pmvstash blog
 theme: dead-simple
 
 menu:
