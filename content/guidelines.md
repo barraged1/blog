@@ -14,7 +14,7 @@ Discussion and decisions about the guidelines take place in the [PMV Stash disco
 
 1. Adults Only!
 
-    Do not share any data, metadata, or other info if you suspect it might involve or appear to involve under-age individuals.
+    Do not share any data, metadata, or other info if you suspect it might involve under-age individuals.
 
 1. Consensual footage only!
 
