@@ -54,12 +54,17 @@ Guidelines for Scene submissions.
 * Add all relevant links such as "tube site" uploads, reddit release posts, milovana.com release threads, and torrent tracker uploads.
 * Linking to private tracker posts is allowed.
 
-    >⚠️WARNING: While we are not aware of any private trackers explicitly prohibiting their users from sharing links to the tracker from elsewhere on the Internet, this might be frowned upon by tracker owners. PMV Stash users who wish to publish links to private torrent trackers should take care to not associate their PMV Stash identity with any of their private tracker identities. PMV Stash itself allows capturing private torrent tracker links.
+{{< box warning >}}
+While we are not aware of any private trackers explicitly prohibiting their users from sharing links to the tracker from elsewhere on the Internet, this might be frowned upon by tracker owners. PMV Stash users who wish to publish links to private torrent trackers should take care to not associate their PMV Stash identity with any of their private tracker identities. PMV Stash itself allows capturing private torrent tracker links.
+{{< /box >}}
 
 * Linking to public torrents is allowed through btdig.com.
-    >ℹ️ Public torrents usually include more than one PMV. You may link the appropriate torrent to all applicable PMVs (Scenes). You should make an effort to check if the torrent is actually relevant, but neither PMV Stash users nor administrators are required to seed any torrents. The purpose is to capture and organize information about what exists, not to facilitate file sharing.
 
-* Do NOT add direct links to file sharing sites to Scenes.
+{{< box info >}}
+Public torrents usually include more than one PMV. You may link the appropriate torrent to all applicable PMVs (Scenes). You should make an effort to check if the torrent is actually relevant, but neither PMV Stash users nor administrators are required to seed any torrents. The purpose is to capture and organize information about what exists, not to facilitate file sharing.
+{{< /box >}}
+
+* Do *not* add direct links to file sharing sites to Scenes.
 Site types with favicons are automatically detected for the links you submit. If a site type is missing and you feel it should be added, please contact the PMV Stash admins.
 
 ### Tagging
