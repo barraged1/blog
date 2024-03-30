@@ -69,7 +69,34 @@ Site types with favicons are automatically detected for the links you submit. If
 
 ### Tagging
 * Tags are meant to help users search effectively. We favor precise tagging with strict tag definitions over bulk or automatic assignment of tags retrieved by scrapers.
+* When deciding if a tag applies to video, a good rule-of-thumb is the 20% rule. Does at least 20% of the video relate to this tag? If so, tag it. Note, for more extreme tags it may be helpful to include them even if they are a minor part of the video to help users filter out content they do not want to see.
 * Use the Porn Music Video tag for all Scenes that don't fit a more precise genre such as Cock Hero, Hypno Video, or Compilation.
 Performers
 Add performers where known.
 If a performer doesn't exist in PMV Stash, create them.
+
+### Performers
+* The purpose of tagging performers into a video is to improve overall video metadata and improve search usefulness for the user.
+* Currently, Performers are tagged based on their de facto apperance in the video, not based on a screentime threshold. If an person can be identified, then it would be appropiate to add them as a performer for that video/scene.
+* Fictional characters can be considered performers, falling under the same guidelines as above.
+
+### Tag-specific Guidelines
+
+#### Porn Music Video (PMV) vs Hentai Music Video (HMV) Tag
+* Videos that contain a majority of content that would be tagged under Animated (2D or 3D) or Art are considered HMVs, no matter if the origin of the content is from an actual japanese hentai animation.
+
+#### Hentai Tag
+* This tag refers to the inclusion of specifically japanese hentai animations in a PMV/HMV and will almost always be paired with the "2D Animiated" tag. This does not refer to any japanese fanmade content, but studio-produced adult animation from japan.
+
+#### Visual Effects Tag
+* This tag refers to a video that has been edited to include extra visual effects such as flashing lights, zooming, screen pump, abberations, and many others.
+
+## Performers
+
+Guidelines for Performer submissions.
+
+### Fictional Performers
+
+* TBA
+
+
