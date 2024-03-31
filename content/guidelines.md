@@ -1,4 +1,4 @@
----
+w---
 title: 'Guidelines'
 date: 2024-03-30T12:43:57+02:00
 toc: true
@@ -71,9 +71,6 @@ Site types with favicons are automatically detected for the links you submit. If
 * Tags are meant to help users search effectively. We favor precise tagging with strict tag definitions over bulk or automatic assignment of tags retrieved by scrapers.
 * When deciding if a tag applies to video, a good rule-of-thumb is the 20% rule. Does at least 20% of the video relate to this tag? If so, tag it. Note, for more extreme tags it may be helpful to include them even if they are a minor part of the video to help users filter out content they do not want to see.
 * Use the Porn Music Video tag for all Scenes that don't fit a more precise genre such as Cock Hero, Hypno Video, or Compilation.
-Performers
-Add performers where known.
-If a performer doesn't exist in PMV Stash, create them.
 
 ### Performers
 * The purpose of tagging performers into a video is to improve overall video metadata and improve search usefulness for the user.
@@ -95,8 +92,37 @@ If a performer doesn't exist in PMV Stash, create them.
 
 Guidelines for Performer submissions.
 
+### Non-Fictional
+
+* TBD
+
 ### Fictional Performers
 
-* TBA
+Guidelines for performers that do not exist in real life, like video game, anime, or cartoon characters.
 
+{{< box warning >}}
+Fictional Performers are to be mainly used for characters that would be considered to be seen across many different pieces of user-created content. For example, Widowmaker from Overwatch is a character that is commonly drawn, animated, or put into PMV/HMVs. By making a performer for her, this would allow users to find all videos associated with her. By contrast, if we look at a character from a western single-shot animation or a japanese hentai animation, if we made a performer for them it would only related to that original source and wouldn't be that useful as a piece of metadata. Use your best judgement when deciding if creating a performer for a character would be useful.
+{{< /box >}}
+
+#### Name
+* The common-name that the character goes by. If a character has a first and last name, but the last is not commonly associated with the character, only put the first name and put the full-name in the Alias.
+
+#### Disambiguation
+* This is an important field for fictional characters, as it will contain the IP where the character is from to help with characters that have similar or identical names.
+* Similar to tags that relate to properties/IP, use high level identifiers for the disambiguation (ex. Use Resident Evil and not Resident Evil 4 if the character appears in multiple Resident Evil games)
+
+#### Character Information (Gender, Eye Color, Hair Color, etc.)
+* Use primary sources preferrably directly from official material (ex. Game Manuals, Offical Websites, Offical Wikis, In-Game Lore)
+* Fan-based information can be used, but only use credible sources and make sure to cite them in the links part of the Performer.
+* Not all fields need to be filled out, only put what is known and don't guess.
+
+#### Birthday
+* This is not the characters release date or first apperance. Do not use this field.
+
+#### Career Start
+* The release date of the property/IP that the character is from.
+
+#### Images
+* Preferrably use a high-quality official picture of only the character.
+* Fan art can be used as additional pictures if wanted or if an official picture is not possible.
 
